@@ -1,1 +1,0 @@
-# mruggeri-math.github.io
