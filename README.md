@@ -1,1 +1,0 @@
-# Homepage of Michele Ruggeri
