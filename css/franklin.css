@@ -133,17 +133,17 @@ h6 {
   margin-bottom: 1em;
 }
 
-.franklin-content h1 a { color: #002b5c; }
+.franklin-content h1 a { color: #bb2e29; }
 .franklin-content h1 a:hover { text-decoration: none; }
-.franklin-content h2 a { color: #002b5c; }
+.franklin-content h2 a { color: #bb2e29; }
 .franklin-content h2 a:hover { text-decoration: none; }
-.franklin-content h3 a { color: #002b5c; }
+.franklin-content h3 a { color: #bb2e29; }
 .franklin-content h3 a:hover { text-decoration: none; }
-.franklin-content h4 a { color: #002b5c; }
+.franklin-content h4 a { color: #bb2e29; }
 .franklin-content h4 a:hover { text-decoration: none; }
-.franklin-content h5 a { color: #002b5c; }
+.franklin-content h5 a { color: #bb2e29; }
 .franklin-content h5 a:hover { text-decoration: none; }
-.franklin-content h6 a { color: #002b5c; }
+.franklin-content h6 a { color: #bb2e29; }
 .franklin-content h6 a:hover { text-decoration: none; }
 
 .franklin-content table {
@@ -186,7 +186,7 @@ td {
 }
 
 .franklin-content a {
-  color: #004de6;
+  color: #bb2e29;
   text-decoration: none;
 }
 
